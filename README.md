@@ -10,8 +10,8 @@ I'm a passionate **QA Engineer** with a strong focus on **manual testing** and *
 
 🛠 **Tech stack & tools:**  
 - **Testing:** Manual Testing, API Testing, UI Testing  
-- **Tools:** Postman, JIRA, JMeter, Charles Proxy  
-- **Basic coding knowledge in:** Python, JavaScript  
+- **Tools:** Postman, JIRA, JMeter, DevTools  
+- **Basic coding knowledge in:** Python, SQL, HTML, CSS 
 
 📫 **How to contact me:**  
 [![LinkedIn Badge](https://img.shields.io/badge/-@daniel-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daniel-tsoy-462402355)  
