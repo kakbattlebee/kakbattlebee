@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, my name is Daniel!
 
-<!--
-**kakbattlebee/kakbattlebee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **QA Engineer** with a strong focus on **manual testing** and **ensuring software quality**. I specialize in detecting inconsistencies, improving system reliability, and collaborating with cross-functional teams to enhance the end-user experience.
+
+💡 Currently, I'm expanding my knowledge in **test automation** and deepening my skills in **API testing**.
+
+🛠 **Tech stack & tools:**  
+- **Testing:** Manual Testing, API Testing, UI Testing  
+- **Tools:** Postman, JIRA, JMeter, Charles Proxy  
+- **Basic coding knowledge in:** Python, JavaScript  
+
+📫 **How to contact me:**  
+[![LinkedIn Badge](https://img.shields.io/badge/-@daniel-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daniel-tsoy-462402355)  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilka.tsoy.99@gmail.com)  
