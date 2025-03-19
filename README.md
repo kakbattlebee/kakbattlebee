@@ -1,6 +1,6 @@
 # Hi, my name is Daniel!
 
-[![Header](https://github.com/kakbattlebee/kakbattlebee/tree/main/Assets/QA-picture.jpg)]
+![Header](https://raw.githubusercontent.com/kakbattlebee/kakbattlebee/main/Assets/QA-picture.jpg)
 
 ### 👨‍💻 About me:
 
@@ -8,7 +8,7 @@ I'm a passionate **QA Engineer** with a strong focus on **manual testing** and *
 
 💡 Currently, I'm expanding my knowledge in **test automation** and deepening my skills in **API testing**.
 
-## My CV
+### My CV
 [Link to my CV](https://drive.google.com/file/d/1SIJBSLcHBQp8Zr_gZVQB5Nox5WJhaKj5/view?usp=sharing)
 
 🛠 **Tech stack & tools:**  
@@ -18,8 +18,6 @@ I'm a passionate **QA Engineer** with a strong focus on **manual testing** and *
 
 ### 📂 My Projects:
 - 📝 [Test Cases, Check lists, Bug Reports and other test docs](https://github.com/kakbattlebee/Test-Documentation)
-- 🔍 [API Testing with Postman](https://github.com/yourrepo/api-testing)
-- ⚙️ [Automation Scripts (Selenium, Python)](https://github.com/yourrepo/automation)
 
 📫 **How to contact me:**  
 [![LinkedIn Badge](https://img.shields.io/badge/-@daniel-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daniel-tsoy-462402355)  
