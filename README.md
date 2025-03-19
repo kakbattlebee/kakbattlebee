@@ -21,4 +21,5 @@ I'm a passionate **QA Engineer** with a strong focus on **manual testing** and *
 
 📫 **How to contact me:**  
 [![LinkedIn Badge](https://img.shields.io/badge/-@daniel-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daniel-tsoy-462402355)  
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilka.tsoy.99@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilka.tsoy.99@gmail.com) 
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/dani1ka_tsoy) 
